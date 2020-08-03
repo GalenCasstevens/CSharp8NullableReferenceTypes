@@ -1,0 +1,11 @@
+C:\Users\gcasstevens\source\repos\CSharpV8.0\NullDemo\bin\Debug\netcoreapp3.1\NullDemo.exe
+C:\Users\gcasstevens\source\repos\CSharpV8.0\NullDemo\bin\Debug\netcoreapp3.1\NullDemo.deps.json
+C:\Users\gcasstevens\source\repos\CSharpV8.0\NullDemo\bin\Debug\netcoreapp3.1\NullDemo.runtimeconfig.json
+C:\Users\gcasstevens\source\repos\CSharpV8.0\NullDemo\bin\Debug\netcoreapp3.1\NullDemo.runtimeconfig.dev.json
+C:\Users\gcasstevens\source\repos\CSharpV8.0\NullDemo\bin\Debug\netcoreapp3.1\NullDemo.dll
+C:\Users\gcasstevens\source\repos\CSharpV8.0\NullDemo\bin\Debug\netcoreapp3.1\NullDemo.pdb
+C:\Users\gcasstevens\source\repos\CSharpV8.0\NullDemo\obj\Debug\netcoreapp3.1\NullDemo.AssemblyInfoInputs.cache
+C:\Users\gcasstevens\source\repos\CSharpV8.0\NullDemo\obj\Debug\netcoreapp3.1\NullDemo.AssemblyInfo.cs
+C:\Users\gcasstevens\source\repos\CSharpV8.0\NullDemo\obj\Debug\netcoreapp3.1\NullDemo.dll
+C:\Users\gcasstevens\source\repos\CSharpV8.0\NullDemo\obj\Debug\netcoreapp3.1\NullDemo.pdb
+C:\Users\gcasstevens\source\repos\CSharpV8.0\NullDemo\obj\Debug\netcoreapp3.1\NullDemo.csprojAssemblyReference.cache
